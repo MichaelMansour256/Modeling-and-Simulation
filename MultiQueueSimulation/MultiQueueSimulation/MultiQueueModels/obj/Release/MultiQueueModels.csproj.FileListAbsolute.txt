@@ -1,0 +1,4 @@
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueModels\bin\Release\MultiQueueModels.dll
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueModels\bin\Release\MultiQueueModels.pdb
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Release\MultiQueueModels.dll
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueModels\obj\Release\MultiQueueModels.pdb

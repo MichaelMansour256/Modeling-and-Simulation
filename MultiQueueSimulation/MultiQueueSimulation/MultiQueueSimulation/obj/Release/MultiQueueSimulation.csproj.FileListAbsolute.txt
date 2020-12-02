@@ -1,0 +1,5 @@
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueSimulation\obj\Release\MultiQueueSimulation.csprojResolveAssemblyReference.cache
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueSimulation\obj\Release\MultiQueueSimulation.Form1.resources
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueSimulation\obj\Release\MultiQueueSimulation.Properties.Resources.resources
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueSimulation\obj\Release\MultiQueueSimulation.csproj.GenerateResource.Cache
+D:\University\Study Years\4th Year\First Term\Modeling and Simulation\Labs\Lab 2\Template_Students\MultiQueueSimulation\MultiQueueSimulation\bin\Release\MultiQueueSimulation.exe.config
